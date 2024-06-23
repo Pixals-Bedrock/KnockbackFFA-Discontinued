@@ -1,0 +1,14 @@
+name: UtriXKnockBackPvP
+main: KBPVP\KnockBackPvP
+author: oPinqz
+api: 4.5.1
+version: 2.0.0
+description: UtriX KnockbackPvP Upgraded Plugin
+commands:
+  topkillskb:
+    description: TopKills
+    permission: knockback.command
+
+permissions:
+  knockback.command:
+    default: true
